@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<head>
+<h1>Curriculo:</h1>
+</head>
+
+
+    <b><h2>Marcos de Jesus Rocha</h2></b><hr>
+
+    <u><b><h2>Contato</h2></b></u>
+    <h3> 
+        Telefone: 11 946459960 <br>
+        Email: marcosdejesusrocha28@gmail.com <br>
+        Endereço: Travessa Somalia, 18 <br>
+        Bairro: Serraria <br>
+    </h3>
+    
+    <u><b><h2>Objetivo</h2></b></u>
+    <h3>
+        Estágio na area de informática
+    </h3>
+    
+    <u><b><h2>Qualificações</h2></b></u>
+    <h3>
+        <ul>
+        <li>Aplicativos: Word, Excel, Powerpoint</li> <br>
+        <li>Windows Intermediario <br>
+        <li>Git</li> <br>
+        <li>Git Hub</li> <br>
+        <li>Suporte ao usuário</li> <br>
+        <li>Linguagem C</li> <br>
+        <li>HTML</li> <br>
+        <li>CSS</li>
+        </ul>
+    </h3>
+    
+    <u><b><h2>Cursando</h2></b></u>
+    <h3> 
+        Informática – Noturno <br>
+        Etec Juscelino Kubitschek <br>
+        2° Semestre <br>
+        Previsão de conclusão: 1° Semestre de 2024 <br>
+    </h3>
+    
+    <u><b></b><h2>Formação Acadêmica</h2></b></u>
+    <h3>
+        2022 Ensino médio completo – E. E. Professor José Fernando Abbud
+    </h3>
+    
+    <u><b><h2>Idiomas</h2> </b></u>
+    <h3
+        >Inglês – Intermediario
+    </h3>
+    
+</body>
+
+</html>
